@@ -8,11 +8,9 @@ package:
   version: {{ version|replace("-", "_") }}
 
 source:
-  fn: perm_{{ version }}.tar.gz
   url:
     - https://cran.r-project.org/src/contrib/perm_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/perm/perm_{{ version }}.tar.gz
-
   sha256: 729294987bb0f367c67c4bf4071464e097ec9a2bbdb2c63f19ebfb907c604aa0
 
 build:
