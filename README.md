@@ -1,11 +1,11 @@
-About r-perm
-============
+About r-perm-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-perm-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=perm
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-perm-feedstock/blob/main/LICENSE.txt)
 
 Summary: Perform Exact or Asymptotic permutation tests [see Fay and Shaw <doi:10.18637/jss.v036.i02>].
 
